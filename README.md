@@ -1,2 +1,2 @@
 # my-portfolio
-building my personal portfolio
+Building my personal portfolio
